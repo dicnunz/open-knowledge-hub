@@ -7,4 +7,6 @@ remote_theme: jekyll/minima
 # Top navigation links
 header_pages:
   - index.md
-  - docs/scientific_method.md
+  - docs/scientific_method.m
+  - CONTENT_ROADMAP.md
+- DONATE.mdd
