@@ -1,0 +1,10 @@
+title: Open Knowledge Hub
+description: "Open, verifiably sourced repository of human knowledge and skills."
+
+# Use the default GitHub Pages theme (minima is free and preinstalled)
+remote_theme: jekyll/minima
+
+# Top navigation links
+header_pages:
+  - index.md
+  - docs/scientific_method.md
