@@ -5,9 +5,10 @@ This roadmap lists high‑priority topics to be researched and published. Status
 | Priority | Topic | Category | Status |
 |----------|-------|----------|--------|
 | P1 | The Scientific Method | STEM Foundations | Published |
-| P1 | Basic Algebra | STEM Foundations | Backlog |
-| P1 | Newton's Laws of Motion | STEM Foundations | Backlog |
+| P1 | Basic Algebra | STEM Foundations | Published |
+| P1 | Plan Open Collective Setup | Project Development | In Progress |1 | Newton's Laws of Motion | STEM Foundations | Backlog |
 | P1 | Climate Change Basics | Global Challenges | Backlog |
+| P1 | Newton's Laws of Motion | STEM Foundations | Backlog |
 | P1 | Logical Fallacies | Critical Skills | Backlog |
 | P1 | Carbon Cycle | Global Challenges | Backlog |
 | P2 | Photosynthesis | STEM Foundations | Backlog |
